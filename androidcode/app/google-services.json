@@ -1,0 +1,59 @@
+{
+  "project_info": {
+    "project_number": "909255372799",
+    "firebase_url": "https://profound-media-206806.firebaseio.com",
+    "project_id": "profound-media-206806",
+    "storage_bucket": "profound-media-206806.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:909255372799:android:3bad43bc4d0d8e01",
+        "android_client_info": {
+          "package_name": "com.example.hp.quote"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "909255372799-ujq8t4j9j64feuff5tditmd1otbhuic5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.hp.quote",
+            "certificate_hash": "6bee0fea1ca8dba53a2efe7ced29bdb04de17edf"
+          }
+        },
+        {
+          "client_id": "909255372799-p6551v5877mpihetfv5pcs8ijebmau9r.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "909255372799-p6551v5877mpihetfv5pcs8ijebmau9r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHLS4feifstUhBH001UAD_sL_I5liDRdw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "909255372799-p6551v5877mpihetfv5pcs8ijebmau9r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
